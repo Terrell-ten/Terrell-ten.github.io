@@ -11,9 +11,9 @@
 			<p>开发者，白与黑的网页</p>
 			<header>
 				<nav>
-					<a href="">首页</a>
-					<a href="">白之开</a>
-					<a href="">黑之闭</a>
+					<a href="">首页1</a>
+					<a href="">白之开2</a>
+					<a href="">黑之闭3</a>
 				</nav>
 			</header>
 			
