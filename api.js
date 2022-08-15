@@ -1,2 +1,2 @@
-val app = 'app';
-console.log(app);
+val bgg = 'app';
+console.log(bgg);
