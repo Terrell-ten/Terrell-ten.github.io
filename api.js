@@ -4,5 +4,5 @@
 if( document.domain=='jxcsys.520shq.com'||document.domain=='pf.520shq.com'||document.domain=='pfs.520shq.com'){
   
  
-  document.getElementsByTagName('body')[0].innerHTML='';
+ // document.getElementsByTagName('body')[0].innerHTML='';
 }
