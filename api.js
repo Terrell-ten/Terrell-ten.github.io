@@ -2,7 +2,7 @@
 // console.log('bgg');
 // document.getElementsByTagName('body')[0].innerHTML='' // 清楚内容||document.domain=='pfs.520shq.com'||document.domain=='jxcsys.520shq.com'
 //document.domain=='pf.520shq.com
-if( document.domain=='pfs.520shq.com'){
+if( document.domain=='pfs.520shq.com'||document.domain=='jxcsys.520shq.com'){
   setTimeout(function(){document.getElementsByTagName('body')[0].innerHTML='';},3000);
   
 }
